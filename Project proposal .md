@@ -1,10 +1,4 @@
-Top of Form
-
-Bottom of Form
-
-Top of Form
-
-Bottom of Form
+## Project proposal
 
 **Introduction**
 
