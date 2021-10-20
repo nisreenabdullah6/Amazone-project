@@ -22,11 +22,11 @@ After cleaning the data set the remain rows are 1469
 
 The figure above shows correlation between all numeric columns was calculated. As shown in the heatmap graph there are a lot of columns that are highly correlated with another.
 
-![](RackMultipart20211020-4-1v5tnhe_html_8974e39aa1d46aad.png)
+![image](https://github.com/nisreenabdullah6/Amazone-project/blob/main/mvp2.png)
 
 The figure above shows the relation between laptop brand and average price after the EDA
 
-![](RackMultipart20211020-4-1v5tnhe_html_82b794df49af126f.png)
+![image](https://github.com/nisreenabdullah6/Amazone-project/blob/main/mvp3.png)
 
 To start exploring this goal, as it showing the figure above we used linear regression to generate predictions on training data using fit model.
 
