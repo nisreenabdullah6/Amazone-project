@@ -17,7 +17,8 @@ Our EDA steps :
 
 After cleaning the data set the remain rows are 1469
 
-![](RackMultipart20211020-4-1v5tnhe_html_e00fb8fed2d8c4ec.png)
+
+![image](https://github.com/nisreenabdullah6/Amazone-project/blob/main/MVP1.png)
 
 The figure above shows correlation between all numeric columns was calculated. As shown in the heatmap graph there are a lot of columns that are highly correlated with another.
 
